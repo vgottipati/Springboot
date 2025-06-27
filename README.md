@@ -1,2 +1,2 @@
-# Springboot
-This repository stores all Springboot related projects
+# demo
+This is a demo repository
